@@ -5,9 +5,12 @@ date: "6/29/2020"
 output: html_notebook
 ---
 
+**GitHub Link:**
+
+https://github.com/HikaruSaiGo/Stat694.git
+
 ```{r}
 library(tidyverse)
 mtcars
 plot(mtcars)
 ```
-
