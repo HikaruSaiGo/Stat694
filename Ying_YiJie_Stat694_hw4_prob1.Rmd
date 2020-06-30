@@ -7,7 +7,7 @@ output: html_notebook
 
 **GitHub Link:**
 
-https://github.com/HikaruSaiGo/Stat694.git
+https://github.com/HikaruSaiGo/Stat694
 
 ```{r}
 library(tidyverse)
