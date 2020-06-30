@@ -1,0 +1,13 @@
+---
+title: "Stat694 hw4 pro1"
+author: "YiJie Ying"
+date: "6/29/2020"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+mtcars
+plot(mtcars)
+```
+
