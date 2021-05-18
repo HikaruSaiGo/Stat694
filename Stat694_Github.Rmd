@@ -1,0 +1,17 @@
+---
+title: "R Notebook"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+
+**GitHub Link:**
+
+https://github.com/HikaruSaiGo/Stat694
+
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+mtcars
+plot(mtcars)
+```
